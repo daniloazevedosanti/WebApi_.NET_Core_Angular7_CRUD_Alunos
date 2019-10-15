@@ -1,0 +1,14 @@
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\bin\Debug\netcoreapp2.2\CRUDTestAngular7.deps.json
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\bin\Debug\netcoreapp2.2\CRUDTestAngular7.runtimeconfig.json
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\bin\Debug\netcoreapp2.2\CRUDTestAngular7.runtimeconfig.dev.json
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\bin\Debug\netcoreapp2.2\CRUDTestAngular7.dll
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\bin\Debug\netcoreapp2.2\CRUDTestAngular7.pdb
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\obj\Debug\netcoreapp2.2\CRUDTestAngular7.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\obj\Debug\netcoreapp2.2\CRUDTestAngular7.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\obj\Debug\netcoreapp2.2\CRUDTestAngular7.RazorAssemblyInfo.cache
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\obj\Debug\netcoreapp2.2\CRUDTestAngular7.RazorAssemblyInfo.cs
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\obj\Debug\netcoreapp2.2\CRUDTestAngular7.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\obj\Debug\netcoreapp2.2\CRUDTestAngular7.AssemblyInfo.cs
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\obj\Debug\netcoreapp2.2\CRUDTestAngular7.RazorTargetAssemblyInfo.cache
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\obj\Debug\netcoreapp2.2\CRUDTestAngular7.dll
+C:\Users\Dan\source\repos\CRUDTestAngular7\CRUDTestAngular7\obj\Debug\netcoreapp2.2\CRUDTestAngular7.pdb
